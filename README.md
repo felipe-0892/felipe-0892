@@ -39,3 +39,6 @@
   <a href="https://www.linkedin.com/in/felipe-silva-a9a008201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:felipesilvacosta22@gmail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
+[![felipe-0892 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipe-0892_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/felipe-0892/github-readme-stats#gh-dark-mode-only)
