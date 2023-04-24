@@ -12,9 +12,9 @@
 
 ## 📚 Formação
 
-### Estou no terceiro período de tecnologia em informática pelo Instituto Federal de Sergipe 😁
-### Depois penso em Análise de Desenvolvimento de Sistemas 😎
-### Mais tarde realizo meu sonho de me graduar em Ciências Aeronáuticas ❤😍
+### ✔ Estou no terceiro período de tecnologia em informática pelo Instituto Federal de Sergipe 😁
+### ⭕ Depois penso em Análise de Desenvolvimento de Sistemas 😎
+### ⭕ Mais tarde realizo meu sonho de me graduar em Ciências Aeronáuticas ❤😍
 
 ## 
 
@@ -41,4 +41,3 @@
 </div>
 
 
-[![felipe-0892 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=felipe-0892_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/felipe-0892/github-readme-stats#gh-dark-mode-only)
