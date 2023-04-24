@@ -1,5 +1,25 @@
 # Olá, me chamo Felipe 👋
 
+# Sobre Mim?
+
+## 😁 Sou apaixonado por desafios, tecnologia, viagens, desenvolvimento web e design UX.
+
+#### ✌😉 Acredito que tudo é possível com dedicação e resiliência.
+
+### ✔ Hoje me considero um desenvolvedor front-end
+
+### ✔ Estou a procura de um emprego na área da programação
+
+## Formação
+
+### Estou no terceiro período de tecnologia em informática pelo Instituto Federal de Sergipe 😁
+### Depois penso em Análise de Desenvolvimento de Sistemas 😎
+### Mais tarde realizo meu sonho de me graduar em Ciências Aeronáuticas ❤😍
+
+## 
+
+## Habilidades
+
 <div>
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -10,9 +30,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
 
+## 
 
+### Segue lá 🤞😉
 <div> 
   <a href="https://www.instagram.com/felipe_08920/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-silva-a9a008201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
