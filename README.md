@@ -10,7 +10,7 @@
 
 ### ✔ Estou a procura de um emprego na área da programação
 
-## Formação
+## 📚 Formação
 
 ### Estou no terceiro período de tecnologia em informática pelo Instituto Federal de Sergipe 😁
 ### Depois penso em Análise de Desenvolvimento de Sistemas 😎
@@ -18,7 +18,7 @@
 
 ## 
 
-## Habilidades
+## 👨‍💻 Habilidades
 
 <div>
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
