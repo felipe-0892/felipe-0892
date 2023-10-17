@@ -12,7 +12,8 @@
 
 ## 📚 Formação
 
-### ✔ Estou no terceiro período de tecnologia em informática pelo Instituto Federal de Sergipe 😁
+### ✔ Estou no quarto e último período de tecnologia em informática pelo Instituto Federal de Sergipe 😁
+      ### Focando no TCC, no caso um projeto de informática!
 ### ⭕ Depois penso em Análise de Desenvolvimento de Sistemas 😎
 ### ⭕ Mais tarde realizo meu sonho de me graduar em Ciências Aeronáuticas ❤😍
 
