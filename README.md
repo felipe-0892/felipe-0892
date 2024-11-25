@@ -14,14 +14,14 @@
 
 ### ✔ Estou no quarto e último período de tecnologia em informática pelo Instituto Federal de Sergipe 😁
       ### Focando no TCC, no caso um projeto de informática!
-### ⭕ Depois penso em Análise de Desenvolvimento de Sistemas 😎
+### ✔ Sistemas para Internet pela Fanese (Em andamento) 😎
 ### ⭕ Mais tarde realizo meu sonho de me graduar em Ciências Aeronáuticas ❤😍
 
 ## 
 
 ## 👨‍💻 Habilidades
 
-<div>
+<div style="display: inline_block">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
