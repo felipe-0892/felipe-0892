@@ -6,13 +6,13 @@
 
 #### ✌😉 Acredito que tudo é possível com dedicação e resiliência.
 
-### ✔ Hoje me considero um desenvolvedor front-end
+### ✔ Hoje me considero um desenvolvedor Fullstack Jr.
 
 ### ✔ Estou a procura de um emprego na área da programação
 
 ## 📚 Formação
 
-### ✔ Estou no quarto e último período de tecnologia em informática pelo Instituto Federal de Sergipe 😁
+### ✔✔ Formado em tecnologia de informática pelo Instituto Federal de Sergipe 😁
       ### Focando no TCC, no caso um projeto de informática!
 ### ✔ Sistemas para Internet pela Fanese (Em andamento) 😎
 ### ⭕ Mais tarde realizo meu sonho de me graduar em Ciências Aeronáuticas ❤😍
