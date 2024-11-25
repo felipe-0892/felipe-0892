@@ -13,7 +13,6 @@
 ## 📚 Formação
 
 ### ✔✔ Formado em tecnologia de informática pelo Instituto Federal de Sergipe 😁
-      ### Focando no TCC, no caso um projeto de informática!
 ### ✔ Sistemas para Internet pela Fanese (Em andamento) 😎
 ### ⭕ Mais tarde realizo meu sonho de me graduar em Ciências Aeronáuticas ❤😍
 
