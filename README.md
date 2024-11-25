@@ -10,9 +10,9 @@
 
 ### ✔ Estou a procura de um emprego na área da programação
 
-# 📚 Formação
+## 📚 Formação
 
-## ✔ Formado em tecnologia de informática pelo Instituto Federal de Sergipe 😁
+### ✔ Formado em tecnologia de informática pelo Instituto Federal de Sergipe 😁
 ### ✔ Sistemas para Internet pela Fanese (Em andamento) 😎
 ### ⭕ Mais tarde realizo meu sonho de me graduar em Ciências Aeronáuticas ❤😍
 
