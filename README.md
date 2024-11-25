@@ -18,7 +18,7 @@
 
 ## 
 
-## 👨‍💻 Habilidades em que tenho conhecimento 😎
+## 👨‍💻 Habilidades que tenho conhecimento 😎
 
 <div style="display: inline_block">
   <a href="#" target="_blank"><img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
