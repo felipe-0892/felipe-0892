@@ -6,7 +6,7 @@
 
 #### ✌😉 Acredito que tudo é possível com dedicação e resiliência.
 
-### ✔ Hoje me considero um desenvolvedor Fullstack Jr.
+### ✔ Sou Web Developer
 
 
 ### ✔ Estou a procura de um emprego na área da programação
