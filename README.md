@@ -2,7 +2,7 @@
 
 # Sobre Mim?
 
-## 😁 Sou apaixonado por desafios, tecnologia, viagens, desenvolvimento web e design UX.
+## 😁 Sou apaixonado por desafios, tecnologia, viagens, desenvolvimento web e design UI/UX.
 
 #### ✌😉 Acredito que tudo é possível com dedicação e resiliência.
 
