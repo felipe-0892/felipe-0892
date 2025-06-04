@@ -9,7 +9,7 @@
 ### ✔ Sou Web Developer
 
 
-### ✔ Estou a procura de um emprego na área da programação
+
 
 ## 📚 Formação
 
